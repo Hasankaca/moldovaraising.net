@@ -1,2 +1,2 @@
 # moldovarising.net
-“Source code for moldovaraising.net, a consultancy website focused on EU investment and funding support.”
+“Source code for moldovarising.net, a consultancy website focused on EU investment and funding support.”
